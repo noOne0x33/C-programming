@@ -1,0 +1,21 @@
+# ninja log v5
+50	625	7178871758028356	CMakeFiles/C_programming.dir/problem_14.c.obj	14e0398ba23acca4
+68	650	7178871758018360	CMakeFiles/C_programming.dir/problem_15.c.obj	dd4618f542a8baed
+106	671	7178871758008346	CMakeFiles/C_programming.dir/problem_13.c.obj	c1b31a1e51c02434
+19	694	7178871758308442	CMakeFiles/C_programming.dir/problem_10.c.obj	54a546867f34b445
+179	716	7178871758558470	CMakeFiles/C_programming.dir/problem_2.c.obj	c88f8ebeb95726db
+33	740	7178871758578481	CMakeFiles/C_programming.dir/problem_11.c.obj	175e1af3adf2ed7f
+155	765	7178871758498457	CMakeFiles/C_programming.dir/problem_17.c.obj	8ccb7f17ba9d17ab
+130	789	7178871758858633	CMakeFiles/C_programming.dir/problem_16.c.obj	63c0e0c80bf3468d
+1	816	7178871758648512	CMakeFiles/C_programming.dir/problem_1.c.obj	4b10df691ea3c2e8
+87	846	7178871758923741	CMakeFiles/C_programming.dir/problem_12.c.obj	327dee32dc56ba04
+629	1039	7178871762172974	CMakeFiles/C_programming.dir/problem_3.c.obj	67fb623f3ea0880a
+672	1090	7178871762683088	CMakeFiles/C_programming.dir/problem_5.c.obj	2b7d5c4d2ff9a3a8
+695	1116	7178871762743108	CMakeFiles/C_programming.dir/problem_7.c.obj	c549963931bc38aa
+651	1123	7178871762843282	CMakeFiles/C_programming.dir/problem_4.c.obj	51413f627b5963ea
+717	1151	7178871763218604	CMakeFiles/C_programming.dir/problem_6.c.obj	f1efe994ab81191c
+741	1193	7178871763841039	CMakeFiles/C_programming.dir/problem_8.c.obj	bd5c40054383e1d6
+789	1212	7178871763973623	CMakeFiles/C_programming.dir/problem_9.c.obj	58de5611039bae58
+766	1218	7178871764007100	CMakeFiles/C_programming.dir/prime_number.c.obj	17646ec3227df5c6
+816	1233	7178871764267178	CMakeFiles/C_programming.dir/problem_18.c.obj	69d6ede3f819dcf6
+847	1283	7178871764820817	CMakeFiles/C_programming.dir/simple_and_compund_interest.c.obj	75b5a6904e253939

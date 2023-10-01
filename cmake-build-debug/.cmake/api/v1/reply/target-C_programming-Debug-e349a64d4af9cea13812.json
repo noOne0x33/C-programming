@@ -70,7 +70,8 @@
 				15,
 				16,
 				17,
-				18
+				18,
+				19
 			]
 		}
 	],
@@ -125,7 +126,8 @@
 				15,
 				16,
 				17,
-				18
+				18,
+				19
 			]
 		}
 	],
@@ -243,6 +245,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "prime_number.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "simple_and_compund_interest.c",
 			"sourceGroupIndex" : 0
 		}
 	],
