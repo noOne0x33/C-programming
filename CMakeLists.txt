@@ -23,4 +23,5 @@ add_executable(C_programming
         problem_9.c
         problem_18.c
         prime_number.c
-        simple_and_compund_interest.c)
+        simple_and_compund_interest.c
+        leap_year.c)
