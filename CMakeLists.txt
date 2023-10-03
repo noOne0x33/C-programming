@@ -26,4 +26,5 @@ add_executable(C_programming
         simple_and_compund_interest.c
         leap_year.c
         positive_or_negetive.c
-        large_number.c)
+        large_number.c
+        odd_or_even.c)
