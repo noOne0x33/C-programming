@@ -9,6 +9,7 @@
 155	765	7178871758498457	CMakeFiles/C_programming.dir/problem_17.c.obj	8ccb7f17ba9d17ab
 130	789	7178871758858633	CMakeFiles/C_programming.dir/problem_16.c.obj	63c0e0c80bf3468d
 1	816	7178871758648512	CMakeFiles/C_programming.dir/problem_1.c.obj	4b10df691ea3c2e8
+9	119	7178883147721040	CMakeFiles/C_programming.dir/leap_year.c.obj	3dbdd3c25c3ff5c8
 87	846	7178871758923741	CMakeFiles/C_programming.dir/problem_12.c.obj	327dee32dc56ba04
 629	1039	7178871762172974	CMakeFiles/C_programming.dir/problem_3.c.obj	67fb623f3ea0880a
 672	1090	7178871762683088	CMakeFiles/C_programming.dir/problem_5.c.obj	2b7d5c4d2ff9a3a8
@@ -18,6 +19,5 @@
 741	1193	7178871763841039	CMakeFiles/C_programming.dir/problem_8.c.obj	bd5c40054383e1d6
 789	1212	7178871763973623	CMakeFiles/C_programming.dir/problem_9.c.obj	58de5611039bae58
 816	1233	7178871764267178	CMakeFiles/C_programming.dir/problem_18.c.obj	69d6ede3f819dcf6
-847	1283	7178871764820817	CMakeFiles/C_programming.dir/simple_and_compund_interest.c.obj	75b5a6904e253939
 4	116	7178883147700386	CMakeFiles/C_programming.dir/simple_and_compund_interest.c.obj	75b5a6904e253939
-9	119	7178883147721040	CMakeFiles/C_programming.dir/leap_year.c.obj	3dbdd3c25c3ff5c8
+5	234	7180570658890996	CMakeFiles/C_programming.dir/positive_or_negetive.c.obj	6cb1ff88df3072b
