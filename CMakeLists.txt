@@ -28,4 +28,5 @@ add_executable(C_programming
         positive_or_negetive.c
         large_number.c
         odd_or_even.c
-        diamon_pattern.c)
+        diamon_pattern.c
+        palindrome.c)
