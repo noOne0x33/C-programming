@@ -29,4 +29,5 @@ add_executable(C_programming
         large_number.c
         odd_or_even.c
         diamon_pattern.c
-        palindrome.c)
+        palindrome.c
+        .github/hello_n_numberOf_times.c)
