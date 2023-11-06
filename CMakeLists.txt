@@ -30,4 +30,5 @@ add_executable(C_programming
         odd_or_even.c
         diamon_pattern.c
         palindrome.c
-        hello_n_numberOf_times.c)
+        hello_n_numberOf_times.c
+        BubbleSort.c)
